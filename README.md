@@ -1,1 +1,1 @@
-# REST-API-Node-Express-MySQL
+# Sample REST API built with Node and Express js with MySQL for future database queries
